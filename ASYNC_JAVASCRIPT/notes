@@ -1,0 +1,6 @@
+- Callback were using since very long time 
+- In ES-2015 promises was introduced 
+- Synchronous -> wait until current task get complete (block the other code)
+- Asynchonouse -> don't wait for current task to complete and execute next task (non-block code)
+- Javascript follow asynchronouse programming  
+- Async await introduce in ES-7

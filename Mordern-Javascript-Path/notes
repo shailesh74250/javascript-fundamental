@@ -1,0 +1,60 @@
+Learning path of javascript 
+- Javascript fundamental 
+-- (Variables) => Declaration (var, let, const)
+scope => global, function, block 
+Hoisting 
+
+-- Data types 
+primitive types (undefined, boolean, number, bigint, string, symbol)
+non-primitive (null, object, function)
+
+-- Data structure 
+Array, Map, weak map, Set, weak set
+
+
+-- Type Conversion 
+explicitly conversion
+implicit conversion 
+
+
+-- Equality 
+== vs ===
+
+-- Loops 
+
+-- Control Flow
+
+-- Expressions && Operations 
+
+-- Funcations 
+
+
+
+Advanced Concept 
+-- Advance scope
+-- Closure 
+-- curring 
+-- this ()
+-- class
+-- literals
+-- generators
+-- event loop
+-- Asynchronous js (setTimeout, setInterval, callbacks,
+promises, async await)
+-- module (import, export, ESM, CJS, Default and named epxress)
+
+
+
+Web APIs
+-- DOM
+-- XHR && Fetch
+-- Storage
+-- Video and Audio 
+-- Drawing Graphics
+
+
+Tooling & Misc 
+-- Linters 
+-- code formatters 
+-- bundlers 
+-- Typescript
